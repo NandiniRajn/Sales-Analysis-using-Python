@@ -24,7 +24,7 @@ The Most sell product:
 
 - selling product: The top 10 most selling products by quantity.
   - The top products are staples were quantity 876 sales, Cardinal Index Tab quantity 337 and Eldon File Cart 321.
-  - 
+
 ## Preferred Ship Mode:
 - The highest preferred mode by count.
 - The highest shipping mode is standard class then second class, same day and first class.
