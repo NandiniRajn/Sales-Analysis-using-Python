@@ -20,8 +20,8 @@ The analysis aims to extract meaningful insights from a dataset related to sales
 ## products by sales:
 - Popular Products: The top 10 products in terms of sales volume were highlighted.
   - The top selling product is the Apple Smart Phone where sales are 87k, after Cisco Smart Phone sales 77k and Motorola Smart Phone sales 74k etc.
-The Most sell product:
 
+## The Most sell product:
 - selling product: The top 10 most selling products by quantity.
   - The top products are staples were quantity 876 sales, Cardinal Index Tab quantity 337 and Eldon File Cart 321.
 
@@ -48,9 +48,9 @@ Sales were broken down by product category, showing which product lines contribu
 
 ## Year-on-Year Comparison
 - Yearly Growth: Sales data from multiple years was compared to identify growth trends.
-- An upward trend in sales was noted, particularly in more recent years.
+  - An upward trend in sales was noted, particularly in more recent years.
 
 ## Conclusion
 The analysis concluded with a detailed understanding of sales distribution across products, regions, and customer segments. It provided actionable insights to drive business growth and improve sales strategies.
 
-[HERE IS SALES ANALYSIS DATA BY PYTHON](https://github.com/NandiniRajn/Sales-Analysis-using-Python/blob/main/Superstore_SalesAnalysis.ipynb)
+[HERE IS SALES ANALYSIS BY PYTHON](https://github.com/NandiniRajn/Sales-Analysis-using-Python/blob/main/Superstore_SalesAnalysis.ipynb)
